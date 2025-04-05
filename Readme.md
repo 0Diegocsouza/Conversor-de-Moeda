@@ -28,3 +28,4 @@ Este é um projeto simples de **Conversor de Moeda** desenvolvido como desafio d
 
 ## 📦 Estrutura do Projeto
 
+<img src="inicial.png"/>
