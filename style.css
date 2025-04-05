@@ -1,0 +1,56 @@
+/* Global Styles */
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    position: relative;
+  }
+  
+  /* Container with the background image */
+  .container {
+    background: url('https://previews.123rf.com/images/peckki/peckki1905/peckki190500065/122174506-gr%C3%A1fico-de-investimento-fundo-abstrato-azul-investimento-em-dinheiro-no-fundo-azul-moeda-e.jpg') no-repeat center center/cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Content div for text and button */
+  .content {
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+  }
+  
+ .content h2{
+    margin-bottom: 20px;
+    font-size: 35px;
+  }
+
+  
+input{
+    background-color: rgba(0, 0, 0, 0.5);
+    color:blue;
+    height: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+  
+  /* Button Styles */
+  button {
+    background-color: #ff1b7b;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #1ABC9C;
+  }
