@@ -28,4 +28,5 @@ Este é um projeto simples de **Conversor de Moeda** desenvolvido como desafio d
 
 ## 📦 Estrutura do Projeto
 
-<img src="inicial.png"/>
+<img src="https://github.com/0Diegocsouza/Conversor-de-Moeda/blob/main/inicial.PNG"/>
+<img src="https://github.com/0Diegocsouza/Conversor-de-Moeda/blob/main/convertido.PNG"/>
